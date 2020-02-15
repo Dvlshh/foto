@@ -1,0 +1,21 @@
+body{
+	color:  #FFFFE8;
+	font-family: 'Work Sans', Arial;  sans-serif;
+	background-color: #565656;
+	text-align: center;
+
+}
+
+main{
+	
+}
+
+main img{
+	width:  70%;
+	max-width: 100%;
+}
+
+main p{
+	text-align: left;
+	padding-left: 15%;
+}
